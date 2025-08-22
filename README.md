@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHINTESH  RADADIYA </h1>
 <h3 align="center">- 👀 I'm currently learning and always learning! -💻 I passionate programing languages.</h3>
 
-- 🔭 I’m currently working on *Daily Drift*
-
 - 🌱 I’m currently learning *Python and java*
 
 - 📫 How to reach me *chinteshradadiya2526@gmail.com*
